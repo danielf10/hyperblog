@@ -3,3 +3,12 @@ body{
 	font-family: "Arial";
 color: red;
 }
+
+#cabecera{
+	background: red;
+	color: white;
+	margin 0;
+	padding: 0.5em;
+	font-weight: bold;
+
+}
